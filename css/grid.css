@@ -63,7 +63,9 @@ html {
 
 .blocky:hover {
   width: 500px;
+
   border: 4px ridge rgba(211, 220, 50, 8);
+
 }
 /* 2. ---Mobile Library Grid Styles--- */
 /*---No media quries used for mobile styles--- */
