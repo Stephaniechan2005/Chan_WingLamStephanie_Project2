@@ -41,6 +41,10 @@ html {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
+  font-family: "Jaro", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .box-size1 {
@@ -65,7 +69,6 @@ html {
   width: 500px;
 
   border: 4px ridge rgba(211, 220, 50, 8);
-
 }
 /* 2. ---Mobile Library Grid Styles--- */
 /*---No media quries used for mobile styles--- */
